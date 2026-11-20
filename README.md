@@ -7,3 +7,6 @@ Hasil Detail Siswa ada fitur Hapus
 Hasil Halaman Update dan sukses update
 <img width="1920" height="1020" alt="image" src="https://github.com/user-attachments/assets/a073f57e-113c-4c4e-bb5c-d15b4ae8b667" />
 <img width="1920" height="1020" alt="image" src="https://github.com/user-attachments/assets/c29295e0-e9b0-495e-9252-f6b3c84b4d2f" />
+Hasil notifikasi pesan dan berhasil delete data Siswa
+<img width="1920" height="1020" alt="image" src="https://github.com/user-attachments/assets/4ecac293-8711-4af0-b4fe-7290655e984d" />
+<img width="1920" height="1020" alt="image" src="https://github.com/user-attachments/assets/897bd1d1-b4d7-4327-82c9-973ad56e88a3" />
